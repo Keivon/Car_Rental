@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Keivon/Car_Rental/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Keivon/Car_Rental/static/js/main.e53f3b88.chunk.js",
+    "main.js.map": "/Keivon/Car_Rental/static/js/main.e53f3b88.chunk.js.map",
+    "runtime-main.js": "/Keivon/Car_Rental/static/js/runtime-main.c3b437c0.js",
+    "runtime-main.js.map": "/Keivon/Car_Rental/static/js/runtime-main.c3b437c0.js.map",
+    "static/js/2.babb5de4.chunk.js": "/Keivon/Car_Rental/static/js/2.babb5de4.chunk.js",
+    "static/js/2.babb5de4.chunk.js.map": "/Keivon/Car_Rental/static/js/2.babb5de4.chunk.js.map",
+    "index.html": "/Keivon/Car_Rental/index.html",
+    "precache-manifest.ed3fc8d9b207e094082e9cd3ee7c333e.js": "/Keivon/Car_Rental/precache-manifest.ed3fc8d9b207e094082e9cd3ee7c333e.js",
+    "service-worker.js": "/Keivon/Car_Rental/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Keivon/Car_Rental/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.babb5de4.chunk.js.LICENSE": "/Keivon/Car_Rental/static/js/2.babb5de4.chunk.js.LICENSE",
+    "static/media/jarisShop.jpg": "/Keivon/Car_Rental/static/media/jarisShop.c01d517d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3b437c0.js",
+    "static/js/2.babb5de4.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e53f3b88.chunk.js"
+  ]
+}
