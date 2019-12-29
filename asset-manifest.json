@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/Car_Rental/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Car_Rental/static/js/main.94ece89e.chunk.js",
-    "main.js.map": "/Car_Rental/static/js/main.94ece89e.chunk.js.map",
+    "main.js": "/Car_Rental/static/js/main.60504ce7.chunk.js",
+    "main.js.map": "/Car_Rental/static/js/main.60504ce7.chunk.js.map",
     "runtime-main.js": "/Car_Rental/static/js/runtime-main.66d251ef.js",
     "runtime-main.js.map": "/Car_Rental/static/js/runtime-main.66d251ef.js.map",
-    "static/js/2.babb5de4.chunk.js": "/Car_Rental/static/js/2.babb5de4.chunk.js",
-    "static/js/2.babb5de4.chunk.js.map": "/Car_Rental/static/js/2.babb5de4.chunk.js.map",
+    "static/css/2.3c1ddb0a.chunk.css": "/Car_Rental/static/css/2.3c1ddb0a.chunk.css",
+    "static/js/2.6ba767d8.chunk.js": "/Car_Rental/static/js/2.6ba767d8.chunk.js",
+    "static/js/2.6ba767d8.chunk.js.map": "/Car_Rental/static/js/2.6ba767d8.chunk.js.map",
     "index.html": "/Car_Rental/index.html",
-    "precache-manifest.0b5a1903d02edf88b31fd4eeeafed514.js": "/Car_Rental/precache-manifest.0b5a1903d02edf88b31fd4eeeafed514.js",
+    "precache-manifest.edd49da2e73f555284dfecf6612ec05c.js": "/Car_Rental/precache-manifest.edd49da2e73f555284dfecf6612ec05c.js",
     "service-worker.js": "/Car_Rental/service-worker.js",
+    "static/css/2.3c1ddb0a.chunk.css.map": "/Car_Rental/static/css/2.3c1ddb0a.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/Car_Rental/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.babb5de4.chunk.js.LICENSE": "/Car_Rental/static/js/2.babb5de4.chunk.js.LICENSE",
-    "static/media/jarisShop.jpg": "/Car_Rental/static/media/jarisShop.c01d517d.jpg"
+    "static/js/2.6ba767d8.chunk.js.LICENSE": "/Car_Rental/static/js/2.6ba767d8.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.66d251ef.js",
-    "static/js/2.babb5de4.chunk.js",
+    "static/css/2.3c1ddb0a.chunk.css",
+    "static/js/2.6ba767d8.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.94ece89e.chunk.js"
+    "static/js/main.60504ce7.chunk.js"
   ]
 }
