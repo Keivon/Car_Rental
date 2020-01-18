@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Car_Rental/static/css/main.837e2669.chunk.css",
-    "main.js": "/Car_Rental/static/js/main.7b64c8a7.chunk.js",
-    "main.js.map": "/Car_Rental/static/js/main.7b64c8a7.chunk.js.map",
+    "main.css": "/Car_Rental/static/css/main.fa03f580.chunk.css",
+    "main.js": "/Car_Rental/static/js/main.883d88ec.chunk.js",
+    "main.js.map": "/Car_Rental/static/js/main.883d88ec.chunk.js.map",
     "runtime-main.js": "/Car_Rental/static/js/runtime-main.66d251ef.js",
     "runtime-main.js.map": "/Car_Rental/static/js/runtime-main.66d251ef.js.map",
     "static/css/2.b90ce945.chunk.css": "/Car_Rental/static/css/2.b90ce945.chunk.css",
-    "static/js/2.ab2469b2.chunk.js": "/Car_Rental/static/js/2.ab2469b2.chunk.js",
-    "static/js/2.ab2469b2.chunk.js.map": "/Car_Rental/static/js/2.ab2469b2.chunk.js.map",
+    "static/js/2.805de640.chunk.js": "/Car_Rental/static/js/2.805de640.chunk.js",
+    "static/js/2.805de640.chunk.js.map": "/Car_Rental/static/js/2.805de640.chunk.js.map",
     "index.html": "/Car_Rental/index.html",
-    "precache-manifest.933332a73b447ee32a473bc45a104267.js": "/Car_Rental/precache-manifest.933332a73b447ee32a473bc45a104267.js",
+    "precache-manifest.a86a29c303e045a06c34c39094a5ced2.js": "/Car_Rental/precache-manifest.a86a29c303e045a06c34c39094a5ced2.js",
     "service-worker.js": "/Car_Rental/service-worker.js",
     "static/css/2.b90ce945.chunk.css.map": "/Car_Rental/static/css/2.b90ce945.chunk.css.map",
-    "static/css/main.837e2669.chunk.css.map": "/Car_Rental/static/css/main.837e2669.chunk.css.map",
-    "static/js/2.ab2469b2.chunk.js.LICENSE": "/Car_Rental/static/js/2.ab2469b2.chunk.js.LICENSE",
-    "static/media/Bestcar.css": "/Car_Rental/static/media/Background.033f39fc.png"
+    "static/css/main.fa03f580.chunk.css.map": "/Car_Rental/static/css/main.fa03f580.chunk.css.map",
+    "static/js/2.805de640.chunk.js.LICENSE": "/Car_Rental/static/js/2.805de640.chunk.js.LICENSE",
+    "static/media/Bestcar.css": "/Car_Rental/static/media/Background2.8a66ee2d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.66d251ef.js",
     "static/css/2.b90ce945.chunk.css",
-    "static/js/2.ab2469b2.chunk.js",
-    "static/css/main.837e2669.chunk.css",
-    "static/js/main.7b64c8a7.chunk.js"
+    "static/js/2.805de640.chunk.js",
+    "static/css/main.fa03f580.chunk.css",
+    "static/js/main.883d88ec.chunk.js"
   ]
 }
