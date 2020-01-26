@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55d2a10f7a33c8a900cb8a8b0bdc336e",
+    "revision": "3abd2c262f7b097d561c9f24b2ca0e6e",
     "url": "/Car_Rental/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Car_Rental/static/css/2.c0d255cd.chunk.css"
   },
   {
-    "revision": "45d8a0204ad9ef270499",
+    "revision": "5a97da96d0d7c408f2ce",
     "url": "/Car_Rental/static/css/main.12eef9ca.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Car_Rental/static/js/2.5bb0bdfb.chunk.js.LICENSE"
   },
   {
-    "revision": "45d8a0204ad9ef270499",
-    "url": "/Car_Rental/static/js/main.acd409ce.chunk.js"
+    "revision": "5a97da96d0d7c408f2ce",
+    "url": "/Car_Rental/static/js/main.bebd9f50.chunk.js"
   },
   {
     "revision": "5467363001eabf5c4717",
