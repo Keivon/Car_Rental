@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Car_Rental/static/css/main.12eef9ca.chunk.css",
-    "main.js": "/Car_Rental/static/js/main.18b0590e.chunk.js",
-    "main.js.map": "/Car_Rental/static/js/main.18b0590e.chunk.js.map",
+    "main.js": "/Car_Rental/static/js/main.acd409ce.chunk.js",
+    "main.js.map": "/Car_Rental/static/js/main.acd409ce.chunk.js.map",
     "runtime-main.js": "/Car_Rental/static/js/runtime-main.66d251ef.js",
     "runtime-main.js.map": "/Car_Rental/static/js/runtime-main.66d251ef.js.map",
     "static/css/2.c0d255cd.chunk.css": "/Car_Rental/static/css/2.c0d255cd.chunk.css",
-    "static/js/2.9079f8a4.chunk.js": "/Car_Rental/static/js/2.9079f8a4.chunk.js",
-    "static/js/2.9079f8a4.chunk.js.map": "/Car_Rental/static/js/2.9079f8a4.chunk.js.map",
+    "static/js/2.5bb0bdfb.chunk.js": "/Car_Rental/static/js/2.5bb0bdfb.chunk.js",
+    "static/js/2.5bb0bdfb.chunk.js.map": "/Car_Rental/static/js/2.5bb0bdfb.chunk.js.map",
     "index.html": "/Car_Rental/index.html",
-    "precache-manifest.c000a9cbd143f18f5f22fd45de1998ef.js": "/Car_Rental/precache-manifest.c000a9cbd143f18f5f22fd45de1998ef.js",
+    "precache-manifest.ec323846fe77f471c63912b6850cc2fb.js": "/Car_Rental/precache-manifest.ec323846fe77f471c63912b6850cc2fb.js",
     "service-worker.js": "/Car_Rental/service-worker.js",
     "static/css/2.c0d255cd.chunk.css.map": "/Car_Rental/static/css/2.c0d255cd.chunk.css.map",
     "static/css/main.12eef9ca.chunk.css.map": "/Car_Rental/static/css/main.12eef9ca.chunk.css.map",
-    "static/js/2.9079f8a4.chunk.js.LICENSE": "/Car_Rental/static/js/2.9079f8a4.chunk.js.LICENSE",
+    "static/js/2.5bb0bdfb.chunk.js.LICENSE": "/Car_Rental/static/js/2.5bb0bdfb.chunk.js.LICENSE",
     "static/media/Bestcar.css": "/Car_Rental/static/media/Background2.8a66ee2d.png",
     "static/media/Carousel1.jpg": "/Car_Rental/static/media/Carousel1.f442ea15.jpg",
     "static/media/Carousel2.jpg": "/Car_Rental/static/media/Carousel2.27170f84.jpg",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.66d251ef.js",
     "static/css/2.c0d255cd.chunk.css",
-    "static/js/2.9079f8a4.chunk.js",
+    "static/js/2.5bb0bdfb.chunk.js",
     "static/css/main.12eef9ca.chunk.css",
-    "static/js/main.18b0590e.chunk.js"
+    "static/js/main.acd409ce.chunk.js"
   ]
 }
